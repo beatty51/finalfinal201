@@ -1,0 +1,17 @@
+body{
+    background-color: slategray; /* Custom Background Color */
+    font-family: Arial, sans-serif; /* Font Family */
+}
+
+footer{
+background-color: darkgray;
+font-size: 75%;
+}
+
+.title{
+    font-style: italic;
+}
+
+.list{
+    font-size: large;
+}
